@@ -4,7 +4,7 @@
   <img src="./swag_logo.png" alt="Swag VPN Logo" width="300">
 </p>
 
-[![Release](https://img.shields.io/github/v/release/your-username/swag-vpn?style=for-the-badge&color=FF007F)](https://github.com/avoidme12/swag-vpn/releases)
+[![Release](https://img.shields.io/github/v/release/avoidme12/swag-vpn?style=for-the-badge&color=FF007F)](https://github.com/avoidme12/swag-vpn/releases)
 [![Platform](https://img.shields.io/badge/Platform-Android-00FFA3?style=for-the-badge&logo=android)](https://www.android.com/)
 [![License](https://img.shields.io/badge/License-MIT-8A2BE2?style=for-the-badge)](LICENSE)
 
