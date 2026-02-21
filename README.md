@@ -1,6 +1,8 @@
-# 🛡️ SwagVPN — Fast & Secure Connection
+# 🛡️ SwagVPN - Fast & Secure Connection
 
-![SwagVPN Header](https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=SwagVPN&fontSize=80&animation=fadeIn&fontAlignY=38)
+<p align="left">
+  <img src="./swag_logo.png" alt="Swag VPN Logo" width="300">
+</p>
 
 [![Release](https://img.shields.io/github/v/release/your-username/swag-vpn?style=for-the-badge&color=FF007F)](https://github.com/avoidme12/swag-vpn/releases)
 [![Platform](https://img.shields.io/badge/Platform-Android-00FFA3?style=for-the-badge&logo=android)](https://www.android.com/)
